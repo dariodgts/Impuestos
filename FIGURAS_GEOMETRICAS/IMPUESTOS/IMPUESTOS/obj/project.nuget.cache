@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "RoRLJENyUXlE5D5Wq+Q0uxKhf4j7LdXaZWsQKWF95yWe7Iv0gZkakNtXycd5PDgBAdYUShINea6XEUFt+S4KLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Equipo\\Desktop\\FIGURAS_GEOMETRICAS\\impuestos\\impuestos\\IMPUESTOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Equipo\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\Equipo\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\Equipo\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\Equipo\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\Equipo\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\Equipo\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\Equipo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
